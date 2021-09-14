@@ -1,3 +1,1 @@
-import {log} from "./base_logger";
-
-exports.log = log;
+export * from "./base_logger";
