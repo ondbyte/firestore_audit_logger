@@ -1,6 +1,6 @@
 {
   "name": "node-typescript-boilerplate",
-  "version": "0.0.0",
+  "version": "0.0.9",
   "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
   "engines": {
     "node": ">= 14.16 <15"
@@ -33,6 +33,7 @@
   "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
   "license": "Apache-2.0",
   "dependencies": {
+    "firebase-admin": "^9.11.1",
     "tslib": "~2.3.0"
   },
   "volta": {
